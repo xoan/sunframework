@@ -7,7 +7,7 @@ define('APP_PATH', ROOT_PATH.'/application');
 
 include CONF_PATH.'/functions.php';
 include CONF_PATH.'/database.php';
+include CONF_PATH.'/route.php';
 
 fSession::open();
-
-include CONF_PATH.'/route.php';
+Moor::run();
