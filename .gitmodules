@@ -1,0 +1,6 @@
+[submodule "libraries/flourish"]
+	path = libraries/flourish
+	url = git://github.com/wbond/flourish.git
+[submodule "libraries/moor"]
+	path = libraries/moor
+	url = git://github.com/wbond/moor.git

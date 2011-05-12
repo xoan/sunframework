@@ -1,0 +1,6 @@
+Simple Unframework based on Flourish and Moor.
+
+$ git clone git://github.com/xoan/sunframework.git project
+$ cd project
+$ git submodule init
+$ git submodule update
